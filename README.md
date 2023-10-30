@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaaf4r&show_icons=true&locale=en" alt="jaaf4r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaaf4r&" alt="jaaf4r" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaaf4r&" alt="jaaf4r" />

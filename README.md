@@ -1,4 +1,4 @@
-<p align="center"><img src="" alt="Hinata Shoyo - Haikyu"></p>
+<p align="center"><img src="./colored manga hinata shoyo.jpeg" alt="Hinata Shoyo - Haikyu"></p>
 <h1 align="center">Hi 👋, I'm Jaafar Bouhnine</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
 

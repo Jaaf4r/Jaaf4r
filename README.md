@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/Jaaf4r/alx-low_level_programming)
 
-- 🌱 I’m currently learning **JS, SQL, Python**
-
-- 💬 Ask me about **C, Html, Css**
+- 🌱 I’m currently learning **JS, Python**
 
 - 📫 How to reach me **jaafar.bouhnine@gmail.com**
 

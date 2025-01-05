@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaaf4r" alt="jaaf4r" /></a> </p>
 
-- 🔭 Currently working on [LeetCode](https://github.com/Jaaf4r/LeetCode)
+- 🔭 Currently working on [42-cursus](https://github.com/Jaaf4r/42-cursus)
 
-- 🌱 Learning **JS** && **Python**
+- 🌱 Learning **Python**
 
 - 📫 How to reach me **jaafar.bouhnine@gmail.com**
 

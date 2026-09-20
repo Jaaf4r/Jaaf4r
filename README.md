@@ -15,7 +15,7 @@
 ### 🏆 Featured Projects
 * **[`cub3D`](https://github.com/Jaaf4r/cub3D):** A 3D raycasting engine built entirely in C from scratch, inspired by the classic Wolfenstein 3D. Features custom texture mapping, movement physics, and low-level graphics rendering.
 * **[`myGames`](https://github.com/Jaaf4r/myGames):** A dedicated sandbox repository for my game development projects. Includes indie prototypes, custom navigation mechanics, and logic scripting utilizing Godot, GDScript, and Lua.
-* **`ft_irc` & `Inception`:** Solidified my backend foundation by building a custom C++98 Internet Relay Chat server with non-blocking I/O, and deploying a fully containerized Docker web infrastructure.
+* **[`ft_irc`](https://github.com/sel-bech/ft_irc) & [`Inception`](https://github.com/Jaaf4r/inception):** Solidified my backend foundation by building a custom C++98 Internet Relay Chat server with non-blocking I/O, and deploying a fully containerized Docker web infrastructure.
 
 ### 🛠️ Tech Stack
 

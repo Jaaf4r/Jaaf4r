@@ -13,9 +13,14 @@
 * **`CollabLab` (`ft_transcendence`):** Designing a real-time collaborative workspace from the ground up, featuring a live whiteboard, Kanban board, chat, and file sharing. 
 
 ### 🏆 Featured Projects
-* **[`cub3D`](https://github.com/Jaaf4r/cub3D):** A 3D raycasting engine built entirely in C from scratch, inspired by the classic Wolfenstein 3D. Features custom texture mapping, movement physics, and low-level graphics rendering.
-* **[`myGames`](https://github.com/Jaaf4r/myGames):** A dedicated sandbox repository for my game development projects. Includes indie prototypes, custom navigation mechanics, and logic scripting utilizing Godot, GDScript, and Lua.
-* **[`ft_irc`](https://github.com/sel-bech/ft_irc) & [`Inception`](https://github.com/Jaaf4r/inception):** Solidified my backend foundation by building a custom C++98 Internet Relay Chat server with non-blocking I/O, and deploying a fully containerized Docker web infrastructure.
+| Project | What I've been building | Technologies |
+| --- | --- | --- |
+| [42 Cursus](https://github.com/Jaaf4r/42-cursus) | My curriculum collection, covering Unix processes, concurrency, graphics, networking, and containerized infrastructure. Highlights include [cub3D](https://github.com/Jaaf4r/cub3D), [ft_irc](https://github.com/sel-bech/ft_irc), and [Inception](https://github.com/Jaaf4r/inception). | C, C++98, Shell, Docker |
+| [42 Verification Bot](https://github.com/Jaaf4r/42-Verification-Bot) | A Discord bot that connects 42 OAuth authorization to server role assignment. | Node.js, Express, discord.js, OAuth 2.0 |
+| [Vinland Café](https://github.com/Jaaf4r/vinland-cafe) | A café menu app with an Express API, persistent storage, and menu item creation, updates, and deletion. | JavaScript, Express, SQLite |
+| [Product Explorer](https://github.com/Jaaf4r/product-explorer) | A product browser with search, category filters, sorting, saved favorites, and URL-based filter state. | JavaScript, Vite, localStorage |
+| [GitHub Finder](https://github.com/Jaaf4r/github-finder) | A GitHub profile search app with recent repositories, loading feedback, and error handling. | JavaScript, Vite, GitHub REST API |
+| [My Games](https://github.com/Jaaf4r/myGames) | Learning projects exploring platforming, navigation, collisions, animation, and gameplay logic. | Godot, GDScript, LÖVE, Lua |
 
 ### 🛠️ Tech Stack
 
